@@ -6,6 +6,6 @@ public class Push4 {
 	}
 
 	public void sysMessage() {
-		System.out.println("push1");
+		System.out.println("Bazzinga!");
 	}
 }
